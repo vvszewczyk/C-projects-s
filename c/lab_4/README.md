@@ -18,30 +18,53 @@ kolejnymi numerami (w kodzie znajdują się także wskazówki konkretnych dział
 połączona z rozszerzeniem wiedzy o kolejnych aspektach traktowania zmiennych w programach
 C na podstawie: stron podręcznika systemu Linux (man), materiałów do przedmiotu (slajdy z
 wykładu, podręczniki) lub informacji dostępnych w internecie
+
 ◦ definicje zmiennych podstawowych typów, ewentualnie połączone z inicjowaniem
+
 ▪ dopuszczalne nazwy zmiennych
+
 ◦ stałe (literały) występujące w kodzie źródłowym
+
 ▪ liczby, znaki, napisy
+
 ▪ dyrektywa #define – zamiana tekstu w kodzie na zdefiniowaną wartość
+
 ◦ operacje wypisywania wartości zmiennych, funkcja printf
+
 ▪ poznanie i przetestowanie rozmaitych opcji formatowania wydruku
+
 ◦ operacje na zmiennych typów podstawowych – modyfikacje kodu i ich testowanie
+
 ▪ operacja przypisania – jawne i niejawne konwersje typów
+
 ▪ operacje arytmetyczne na zmiennych liczbowych – jednoargumentowe i
+
 dwuargumentowe
+
 • niejawne konwersje typów
+
 • kolejność wykonywania operacji
+
 ◦ rola nawiasów dla czytelności zapisów, takich jak np. a+++b
+
 • dokładność zmiennych typów float i double
+
 ◦ błędy zaokrągleń
+
 ▪ operacje logiczne i wartości wyrażeń – prostych i złożonych
 
 Tematy rozszerzające:
 1. Wyszukiwanie konkretnych operacji dla których niska precyzja zmiennych float prowadzi do
 wyników błędnych z matematycznego punktu widzenia, np.
+
 ▪ (1/x)*x != 1 ,
+
 ▪ a+b=a (dla b!=0)
+
 • znalezienie granicznej wartości różnicy między a i b , dla której a+b=a:
+
 ◦ w przypadku liczb typu float
+
 ◦ w przypadku liczb typu double
+
 ▪ itp.
