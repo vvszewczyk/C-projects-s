@@ -1,7 +1,10 @@
 Podstawy programowania
+
 Laboratorium 3.
+
 Cel:
 • Opanowanie tworzenia prostych programów w C realizujących tworzenie napisów.
+
 Zajęcia:
 1. Utworzenie katalogu roboczego lab_3.
 2. W katalogu utworzenie pliku hello.c (lub o innej nazwie)
