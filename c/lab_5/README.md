@@ -7,7 +7,7 @@ Zajęcia:
 2. Utworzenie podkatalogu switch
 3. Skopiowanie programu simple_switch.c ze strony przedmiotu do podkatalogu
 4. Kompilacja w terminalu i sprawdzenie działania
-5. 
+
 ◦ Uwaga 1: program zawiera pętlę nieskończoną – zakończenie programu jest możliwe
 przez przesłanie sygnału zabicia procesu CTRL+C
 
