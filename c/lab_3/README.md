@@ -17,14 +17,14 @@ Zajęcia:
 zapoznanie się ze znakami sterującymi (escape sequence) w napisach
 2. utworzenie szeregu napisów ze znakami sterującymi
 1. kształty geometryczne, obrazki itp. itd.
------------------------------------------- 3.0 ------------------------------------------------------------------------
+
 Tematy rozszerzające:
 1. Utworzenie prostego kilkulinijkowego skryptu dokonującego kompilacji z wybranymi opcjami
 (np. dotyczącymi wykorzystywanego standardu C, optymalizacji, architektury sprzętu)
 1. kompilacja poprzez uruchomienie skryptu
 2. dodanie do skryptu komentarzy niewypisywanych (#) i wypisywanych na akranie (echo)
 3. dodanie do skryptu uruchomienia programu
------------------------------------------- 4.0 ------------------------------------------------------------------------
+
 2. Wykorzystanie debuggera do śledzenia wykonania utworzonego kodu
 1. kompilacja z opcją -g
 2. uruchomienie w trybie śledzenia wykonania debuggerem gdb
@@ -33,4 +33,4 @@ Tematy rozszerzające:
 3. wykonanie krok po kroku: step
 3. poznanie możliwych opcji debuggera (help) i ich wykorzystanie w praktyce
 3. Dowolne zadania polecane przez prowadzących
------------------------------------------- 5.0 ------------------------------------------------------------------------
+
