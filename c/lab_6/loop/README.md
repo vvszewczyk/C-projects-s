@@ -3,6 +3,7 @@ Laboratorium 6.
 Cel:
 
 • Opanowanie podstaw wykorzystania tablic i pętli w C.
+
 Zajęcia:
 1. Utworzenie katalogu roboczego lab_6.
 2. Utworzenie podkatalogu loop
