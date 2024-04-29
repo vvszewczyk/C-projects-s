@@ -61,6 +61,7 @@ wzorce na stronie przedmiotu
 
 4. Graficzna prezentacja tworzonego histogramu (pojedyncza linijka - pojedynczy znak, liczba wystąpień
 znaku ilustrowana liczbą wydruków wybranego znaku (np. '*')
+
 a ******
 
 b *
